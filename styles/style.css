@@ -55,7 +55,9 @@ main
     width: 100%;
     height: 80%;
     background-color: rgb(17, 17, 19);
-    padding-top: 1rem;
+}
+main div .container {
+    background-color: blue;
 }
 main div picture {
     display: flex;
