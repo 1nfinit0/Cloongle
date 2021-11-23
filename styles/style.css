@@ -309,6 +309,9 @@ footer hr {
     }
 }
 @media (min-width: 800px) {
+    .google {
+        width: 25rem;
+    }
     .container {
         margin-top: 10rem;
     }
@@ -335,6 +338,9 @@ footer hr {
     }
 }
 @media (min-width: 1200px){
+    .google {
+        width: 25rem;
+    }
     .container {
         margin-top: 10rem;
     }
