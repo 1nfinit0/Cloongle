@@ -274,7 +274,7 @@ footer hr {
 
 @media (min-width: 500px) {
     .google {
-        width: 35rem;
+        width: 25rem;
     }
     header ul {
         padding-right: 2rem;
@@ -310,7 +310,7 @@ footer hr {
 }
 @media (min-width: 800px) {
     .container {
-        margin-top: 15rem;
+        margin-top: 10rem;
     }
     .buscador {
         max-width: 600px;
@@ -335,6 +335,9 @@ footer hr {
     }
 }
 @media (min-width: 1200px){
+    .container {
+        margin-top: 10rem;
+    }
     .botones {
         width: 65%;
     }
